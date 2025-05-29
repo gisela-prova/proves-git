@@ -1,3 +1,4 @@
-1. Learn Git basics
-2. Practice commits
-3. Set up Github repo
+[P1] 0. Fix critical bug
+[P2] 1. Learn Git basics
+[P3] 2. Practice commits
+[P4] 3. Set up Github repo
